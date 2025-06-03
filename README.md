@@ -22,6 +22,10 @@ Esta aplicación frontend muestra una lista de países con paginación y sistema
 
 ---
 
+## Nota
+
+Recuerda que debes de tener descargado y corriendo el proyecto https://github.com/glasside/maatia.git
+
 ## ⚙️ Instalación
 
 ```bash
